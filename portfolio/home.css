@@ -1,0 +1,32 @@
+*{
+    padding: 0;margin: 0cm;box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient( 90deg,rgba(25,42,86,1),rgba(1,22,53,0.2)) , url(4b6aa5da-4d7b-455d-8c12-d229353b30cd.jpg);
+    background-size: cover;
+}
+body p{
+    text-align: center;
+     position: absolute;
+     top: 30%;
+     left: 5%;
+     font-size: 50px;
+     font-style: oblique;
+}
+body h1{
+    position: absolute;
+    top: 15%;
+    left: 5%;
+    font-size: 60px;
+}
+header{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient( 90deg,rgba(25,42,86,1),rgba(1,22,53,0.2)) , url(4b6aa5da-4d7b-455d-8c12-d229353b30cd.jpg);
+    background-size: cover;
+    position: absolute;
+    text-align: center;
+    
+}
